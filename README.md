@@ -1,29 +1,9 @@
-## Hi there 👋  
-I'm **Mahabub Tamim**, a passionate **Flutter Developer** and **Software Engineer** focused on creating smooth, high-performance mobile applications.
+## Hi there 👋
+I'm **Mahabub Tamim**, a **Flutter Developer** building high-performance mobile apps.
 
----
-
-### 💼 Experience  
-- 🔹 **Flutter Developer** at **SM Technology (Betopia Group)**  
-- 🔹 Former **Flutter Developer Intern** at **GenZSoft (genzsoft.cloud)**  
-
----
-
-### 🌱 Learning  
-- Advanced Flutter & Firebase  
-- State management (Bloc, Riverpod)  
-
----
-
-### 💬 Ask me about  
-Flutter · Dart · Firebase · App UI/UX  
-
----
-
-### 📫 Contact  
-🌐 [tamimdev.tech](https://tamimdev.tech)  
-📧 mahabubtamim@gmail.com  
-🐙 [github.com/Tamimbd2](https://github.com/Tamimbd2)
+**💼 Experience:** Flutter Developer at **SM Technology (Betopia Group)** | Former Intern at **GenZSoft**  
+**🌱 Learning:** Flutter · Firebase · Bloc · Riverpod  
+**📫 Contact:** 🌐 [tamimdev.tech](https://tamimdev.tech) · 📧 mahabubtamim@gmail.com · 🐙 [GitHub](https://github.com/Tamimbd2)
 
 
 ## 🌐 Socials:
