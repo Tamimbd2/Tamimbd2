@@ -3,7 +3,7 @@ I'm **Mahabub Tamim**, a **Flutter Developer** building high-performance mobile 
 
 **💼 Experience:** Flutter Developer at **SM Technology (Betopia Group)** | Former Intern at **GenZSoft**  
 **🌱 Learning:** Flutter · Firebase · Bloc · Riverpod  
-**📫 Contact:** 🌐 [tamimdev.tech](https://tamimdev.tech) · 📧 mahabubtamim@gmail.com · 🐙 [GitHub](https://github.com/Tamimbd2)
+**📫 Contact:** 🌐 [tamimdev.tech](https://tamimdev.tech) · 📧 itstamim.ban@gmail.com · 🐙 [GitHub](https://github.com/Tamimbd2)
 
 
 ## 🌐 Socials:
